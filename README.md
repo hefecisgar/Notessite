@@ -49,7 +49,7 @@ source ./my_env/bin/activate
 2. Clone this repo:
 
 ```sh
-git clone something
+git clone https://github.com/hefecisgar/Notessite.git
 ```
 
 3. Switch to root folder

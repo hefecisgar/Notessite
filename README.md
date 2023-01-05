@@ -9,7 +9,7 @@
 <a name="about-this-project"></a>
 # About this project 
 
-This is just a personal project, nothing grandious. I started it because a 
+This is just a personal project, nothing big. I started it to shake off a 
 bittersweet experience during a college project
 
 
